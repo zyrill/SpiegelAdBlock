@@ -9,7 +9,8 @@
 // @description Remove Spiegel Anti-Adblock-Banner
 // @run-at      document-idle
 // @grant       none
-// @version     0.0.1
+// @license     MIT
+// @version     0.0.2
 // ==/UserScript==
 
 // select the target node
