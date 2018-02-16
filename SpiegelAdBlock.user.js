@@ -10,7 +10,9 @@
 // @run-at      document-idle
 // @grant       none
 // @license     MIT
-// @version     0.0.2
+// @updateURL   https://openuserjs.org/meta/zyrill/Spiegel_Anti-Adblocker-Blocker.meta.js
+// @copyright   2018, zyrill (https://openuserjs.org/users/zyrill)
+// @version     0.0.3
 // ==/UserScript==
 
 // select the target node
